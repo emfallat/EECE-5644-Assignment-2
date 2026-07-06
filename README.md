@@ -1,1 +1,1 @@
-# EECE-5644-Assignment-2
+# EECE 5644 Assignment 2
